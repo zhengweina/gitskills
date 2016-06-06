@@ -1,2 +1,2 @@
 # gitskills
-creatign a new branch dev
+creatign a new branch is quick & simple.
